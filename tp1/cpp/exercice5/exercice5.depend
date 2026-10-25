@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1792925238 source:c:\users\lenovo\tp1\cpp\exercice5\main.cpp
+	<iostream>
+	"etudiant.hpp"
+
+1792923146 c:\users\lenovo\tp1\cpp\exercice5\etudiant.hpp
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
